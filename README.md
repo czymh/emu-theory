@@ -5,7 +5,10 @@ The cosmological sampling and interpolation are the same as the final model in p
 Finally, we replace these theoretical models with our simulation results (under process).
 
 
-![Density contrast fields of different cosmologies.](https://github.com/czymh/emu-theory/blob/master/pic/field_cosmos_lowres.gif?raw=true)
+![Density contrast fields of different cosmologies with length 200 Mpc/h.](https://github.com/czymh/emu-theory/blob/master/pic/field_cosmos_lowres.gif?raw=true)
+
+![Density contrast fields of different cosmologies with length 24 Mpc/h.](https://github.com/czymh/emu-theory/blob/master/pic/halo_cosmos_lowres.gif?raw=true)
+
 
 
 All data has been calculated so the only extra python package is [sklearn](https://scikit-learn.org/stable/).
